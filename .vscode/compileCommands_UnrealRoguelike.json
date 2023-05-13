@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\Private\\TPSCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\Public\\TPSCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\UnrealRoguelike.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\UnrealRoguelike.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\UnrealRoguelike.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\UnrealRoguelikeGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\Source\\UnrealRoguelike\\UnrealRoguelikeGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Acer Nitro\\Documents\\GitHub\\UnrealRoguelike\\.vscode\\compileCommands_UnrealRoguelike\\UnrealRoguelike.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
